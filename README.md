@@ -2,6 +2,10 @@
 
 検証用の各種エンコード／文字コードのサンプル・テキスト・データ。
 
+一覧は以下から JSON 形式でダウンロードできます。
+
+- `https://KEINOS.github.io/SAMPLE_TEXTS/list.json`
+
 ```json
 [
     {
