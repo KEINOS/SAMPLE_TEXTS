@@ -1,8 +1,3 @@
-# SAMPLE_TEXTS
-
-検証用の各種エンコード／文字コードのサンプル・テキスト・データ。
-
-```json
 [
     {
         "name_file": "UTF-8_LF.txt",
@@ -329,4 +324,3 @@
         "url_download": "https://KEINOS.github.io/SAMPLE_TEXTS/CP50222_CRLF.txt"
     }
 ]
-```
