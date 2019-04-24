@@ -2,7 +2,7 @@
 
 検証用の各種エンコード／文字コードのサンプル・テキスト・データ。
 
-[JSON 形式の一覧](https://github.com/KEINOS/SAMPLE_TEXTS/blob/master/list.json)は以下の URL からダウンロードできます。
+[テキストの概要一覧（JSON 形式）](https://github.com/KEINOS/SAMPLE_TEXTS/blob/master/list.json)は以下の URL からダウンロードできます。
 
 - `https://KEINOS.github.io/SAMPLE_TEXTS/list.json`
 - 内容：
